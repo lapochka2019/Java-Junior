@@ -10,5 +10,6 @@ The srcond progect is a Tic Tac Toe for two players. It is a simple game with us
 You wil know who won. You shoudn't close the programm to start a new game.
 Whith Java Swing
 ***
-The third project is a Java Core. It is a little proframms includes the core of the Java.
-  - in an OOP project, you can see the use of abstract, encapsulation and extension as an Interface (implimentation), extending classes, and a local classes in method.
+The third project is a Java Core. It is a little programms includes the core of the Java.
+  - in an OOP project you can see the use of abstract, encapsulation and extension as an Interface (implimentation), extending classes, and a local classes in method.
+  - in a Simple Java project you can see the basic cintax of the language and its application in varios tasks.
