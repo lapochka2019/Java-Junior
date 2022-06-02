@@ -1,4 +1,4 @@
-package day7;
+package Day7;
 
 public class Player {
     private final static int MAX = 100;

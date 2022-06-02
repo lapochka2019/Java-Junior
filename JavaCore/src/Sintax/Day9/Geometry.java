@@ -1,4 +1,4 @@
-package day9;
+package Day9;
 
 public class Geometry {
     public static void main (String [] arg){
